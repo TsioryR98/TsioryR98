@@ -3,6 +3,7 @@ I'm a computer science and enthusiast student from HEI MADAGASCAR. I aim to be a
 
 
 <h2>When I code, I rely on</h2>
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,15 +22,43 @@ I'm a computer science and enthusiast student from HEI MADAGASCAR. I aim to be a
 
 <h2>When I code, I'm mainly working with</h2>
 
+---
+
+<p>
+  
 ### OS:
 
 | Linux | Ubuntu | Arch Linux | Windows 11 |
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="65" height="65"/> | 
 
+---
+
+<p>
+  
 ### TOOLS:
 
 | IntelliJ | VsCode | Webstorm |  OpenAPI |
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="openapi" alt="openapi" width="65" height="65"/> | 
+
+
+---
+
+<p>
+
+## 📜🏆 Certifications
+
+<table>
+  <td>
+	<img width="150" height="150" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="badge cisco"/> </td>
+    <td>
+      <strong>  Introduction to Cybersecurity - CISCO </strong><br/>
+      This introductory course takes inside the world of cybersecurity by checking basics to protect personal digital life and gain insights into the biggest security challenges companies
+      , governments, and educational institutions face today. It was given by Cisco
+	 
+   🔗 <a href="https://www.credly.com/badges/c551eaec-67b1-4e6f-91dd-afc287531a08/public_url">View</a>
+    </td>
+</table>
+
 
